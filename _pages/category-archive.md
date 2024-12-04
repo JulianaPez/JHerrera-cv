@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Publicariones"
+layout: Publicariones
+permalink: /Publicaciones/
 author_profile: true
 ---
