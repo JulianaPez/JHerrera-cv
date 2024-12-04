@@ -6,7 +6,7 @@ editor_options:
     wrap: 72
 header:
   overlay_image: /assets/images/acauca.jpg
-  caption: "Jose Luis Londoño GIUA"
+  caption: "Jose Luis Londoño, GIUA"
 ---
 
 <div style="text-align: justify"> 
