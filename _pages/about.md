@@ -4,7 +4,6 @@ title: "Hii!!"
 editor_options: 
   markdown: 
     wrap: 72
-tagline: "About me ..."
 header:
   overlay_image: /assets/images/acauca.jpg
   caption: "Jose cavfish"
