@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "Hi!!"
 editor_options: 
   markdown: 
     wrap: 72
