@@ -16,9 +16,9 @@
 
 
 # Site Settings
-title: Juliana Herrera Pérez
+title: Juliana Herrera-Pérez
 email: juliana.herrera.p@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"PhD student at INECOL.AC passionate about fish and music
+description: >- # this means to ignore newlines until "baseurl:"Biologist PhD student at INECOL, passionate about fish and music
 twitter_username: Julia_maevofish
 github_username: JulianaPez
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Juliana Herrera Pérez"
+  name   : "Juliana Herrera-Pérez"
   avatar : "/assets/images/foto.jpg"
   bio    : "PhD student at INECOL.AC passionate about fish and music."
   links:
