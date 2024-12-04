@@ -1,7 +1,8 @@
 ---
 permalink: /categories/
-title: "Categorias"
-layout: Publicariones
+title: "Categories"
+layout: categories
 
 author_profile: true
 ---
+HOLAA
