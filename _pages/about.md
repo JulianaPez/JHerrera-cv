@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
+permalink: /about/
+title: "About"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 I am a **biologist** with a degree from the **University of Antioquia**,
