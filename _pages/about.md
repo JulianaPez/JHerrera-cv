@@ -4,6 +4,10 @@ title: "Hi!!"
 editor_options: 
   markdown: 
     wrap: 72
+tagline: "This is a custom tagline content which overrides the default page excerpt."
+header:
+  overlay_image: /assets/images/acauca.jpg
+  caption: "Jose cavfish"
 ---
 
 <div style="text-align: justify"> 
