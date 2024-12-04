@@ -6,15 +6,11 @@ editor_options:
     wrap: 72
 ---
 
-I am a Biologist from the University of Antioquia and I obtained my
-master degree in the same univesity. In the last eigth years, I have
-been working with the aquatic ecosystems of the north of the Andes.
-Freshwater systems are particularly interesting to me because they
-represent a minimal surface of the planet where ecological and
-evolutionary processes have taken place, giving rise to great to great
-diversity in species and interactions. During my undergraduate studies,
-I worked with fish community ecology, and in my master’s studies I
-researched populations genetics and phylogeography. As a PhD student of
-INECOL, I’m mainly interested in understanding how some biotic and
-abiotic traits of freshwater fish species have influenced their
-diversification on a global scale.
+
+<div style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+
+I am a **biologist** with a degree from the **University of Antioquia**, where I also completed my master's degree. Over the past eight years, I have focused my research on aquatic ecosystems in the northern Andes. Freshwater aquatic systems are interesting to me because even though they represent a minimal surface of the planet, they have given rise to ecological and evolutionary processes that have resulted in a great diversity of species and interactions.
+
+During my undergraduate studies, I specialized in **fish community ecolog**y, and for my master's research, I explored **population genetics** and **phylogeography**. Currently, as a PhD student at INECOL, my primary research interest is understanding how specific biotic and abiotic traits of freshwater fish species have influenced their diversification on a global scale.
+
+</div>
