@@ -18,8 +18,8 @@ diversity of species and interactions.
 During my undergraduate studies, I specialized in fish community
 ecology, and for my master's research, I explored population
 genetics and phylogeography. Currently, as a PhD student at
-<a href="https://maevolab.mx/" target="_blank">Maevolab</a> in
-<a href="https://www.inecol.mx/" target="_blank">Instituto de Ecología INECOL.AC</a>,
+<a href="https://maevolab.mx/" target="_blank">Maevolab</a> in Instituto de Ecología 
+<a href="https://www.inecol.mx/" target="_blank">INECOL.AC</a>,
 my primary research interest is understanding how specific
 biotic and abiotic factors have influenced
 freshwater fish diversification on a global scale.

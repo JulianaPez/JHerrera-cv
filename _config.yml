@@ -58,13 +58,13 @@ plugins:
 
 author:
   name   : "Juliana Herrera Pérez"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/foto.jpg"
   bio    : "PhD student at INECOL.AC passionate about fish and music."
   links:
-    - label: "Website laboratorio"
+    - label: "Lab Website"
       icon: "fas fa-fw fa-link"
       url: "https://maevolab.mx/authors/juliana/"
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Julia_maevofish"
     - label: "GitHub"
