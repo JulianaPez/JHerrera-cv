@@ -61,7 +61,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD student at INECOL.AC passionate about fish and music."
   links:
-    - label: "Website"
+    - label: "Website laboratorio"
       icon: "fas fa-fw fa-link"
       url: "https://maevolab.mx/authors/juliana/"
     - label: "Twitter"
