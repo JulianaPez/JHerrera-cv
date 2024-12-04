@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Hi!!"
+title: "Hii!!"
 editor_options: 
   markdown: 
     wrap: 72
-tagline: "This is a custom tagline content which overrides the default page excerpt."
+tagline: "About me"
 header:
   overlay_image: /assets/images/acauca.jpg
   caption: "Jose cavfish"
