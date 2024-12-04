@@ -1,9 +1,14 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "cv"
+    url: /cv/  
+  - title: "Sci Post"
+    url: /posts/
+  - title: "Ran Post"
+    url: /ranPost/
+  
+
+
