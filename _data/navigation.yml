@@ -5,10 +5,9 @@ main:
     url: /publications/
   - title: "cv"
     url: /cv/  
-  - title: "Sci Post"
+  - title: "Posts"
     url: /posts/
-  - title: "Ran Post"
-    url: /ranPost/
+
   
 
 
